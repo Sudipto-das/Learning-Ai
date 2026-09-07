@@ -1,0 +1,57 @@
+# Knowledge Base - Personal AI Assistant
+
+## About Sudipto Das
+
+Sudipto Das is a passionate software developer specializing in AI/ML and full-stack web development. He is currently pursuing his B.Tech in Computer Science and Engineering.
+
+### Skills
+- Programming Languages: JavaScript, Python, Java
+- Frontend: React.js, Next.js, HTML5, CSS3, Tailwind CSS
+- Backend: Node.js, Express.js, REST APIs
+- Database: MongoDB, PostgreSQL, Redis
+- AI/ML: LangChain, OpenAI API, Groq, Hugging Face Transformers
+- DevOps: Docker, Git, AWS, Vercel
+- Tools: Postman, VS Code, Linux
+
+### Projects
+
+1. PersonalAI - Personal AI Portfolio Assistant
+   - Tech Stack: Node.js, Express.js, MongoDB, Qdrant, Groq API, Xenova Transformers
+   - Description: An AI-powered chatbot that answers recruiter queries about Sudipto's profile using RAG (Retrieval Augmented Generation) with vector embeddings stored in Qdrant vector database.
+
+2. E-Commerce Platform
+   - Tech Stack: Next.js, Stripe, PostgreSQL, Prisma
+   - Description: Full-stack e-commerce application with payment integration, inventory management, and admin dashboard.
+
+3. Real-Time Chat Application
+   - Tech Stack: React.js, Socket.io, Node.js, MongoDB
+   - Description: A real-time messaging application with private chats, group conversations, and file sharing capabilities.
+
+4. AI Content Generator
+   - Tech Stack: Python, FastAPI, OpenAI API, React.js
+   - Description: An AI-powered tool that generates blog posts, social media content, and marketing copy.
+
+### Experience
+
+- Software Developer Intern at TechCorp (2024-2025)
+  - Developed REST APIs using Node.js and Express.js
+  - Implemented real-time features using WebSocket
+  - Optimized database queries reducing response time by 40%
+
+- Freelance Developer (2023-Present)
+  - Built custom web solutions for small businesses
+  - Implemented AI chatbots for customer support
+
+### Education
+
+- B.Tech in Computer Science and Engineering
+  - Institute: ABC University
+  - Duration: 2022-2026
+  - CGPA: 8.5/10
+
+### Contact Information
+- Email: sudipto.das@email.com
+- Phone: +91-XXXXXXXXXX
+- Location: West Bengal, India
+- LinkedIn: linkedin.com/in/sudiptodas
+- GitHub: github.com/sudiptodas

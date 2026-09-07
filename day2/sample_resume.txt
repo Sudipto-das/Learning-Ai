@@ -1,0 +1,33 @@
+Amit Kumar
+Email: amit.kumar@gmail.com
+Phone: +91-9876543210
+
+Summary:
+Full Stack Developer with 3 years of experience in building web applications using React, Node.js, and MongoDB. Passionate about creating scalable solutions and learning new technologies.
+
+Skills:
+JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, REST APIs, Git, HTML, CSS, Tailwind CSS, Redux, JWT Authentication
+
+Experience:
+Full Stack Developer | TechCorp Solutions | Jan 2022 - Present
+- Built and maintained 3+ full-stack applications using React and Node.js
+- Developed RESTful APIs serving 10K+ daily active users
+- Implemented real-time features using Socket.io
+- Optimized MongoDB queries resulting in 40% faster response times
+
+Junior Developer | StartupXYZ | Jun 2021 - Dec 2021
+- Developed frontend components using React
+- Created REST APIs using Express.js and MongoDB
+
+Projects:
+1. E-Commerce Platform - Full stack application with React, Node.js, MongoDB, Stripe payment integration. Features include user auth, product catalog, cart, and admin dashboard.
+2. Task Management REST API - Backend API with Express.js, MongoDB, JWT auth, role-based access control, and unit tests.
+3. Chat Application - Real-time chat app using React, Socket.io, and Node.js with MongoDB for message storage.
+
+Education:
+Bachelor of Technology in Computer Science
+XYZ University | 2021
+
+Certifications:
+- Meta Front-End Developer Certificate
+- MongoDB Associate Developer

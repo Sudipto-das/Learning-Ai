@@ -1,0 +1,7 @@
+{
+  "required_skills": ["react", "node.js", "mongodb", "express", "javascript", "typescript", "rest api"],
+  "preferred_skills": ["graphql", "redis", "docker", "aws", "next.js", "tailwind css"],
+  "min_experience_years": 2,
+  "required_projects": ["full stack application", "rest api"],
+  "required_education": ["bachelor's degree"]
+}

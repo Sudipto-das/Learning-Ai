@@ -1,4 +1,4 @@
-# Order Support Bot
+# Order Support Assistant
 
 A RAG (Retrieval-Augmented Generation) powered customer support chatbot for small D2C e-commerce sellers. Built for **Sudipto's Fashion Store** — a fictional store used as the demo store.
 
